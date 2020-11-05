@@ -1,0 +1,12 @@
+<view class="img-container">
+
+</view>
+
+<view class="descirbe">
+    <view class="descirbe-text">今天想说些什么呢?</view>
+    <view class="descirbe-text"></view>
+    <view class="descirbe-text"></view>
+
+</view>
+<view class="number-alarm">还可输入15个字</view>
+<view class="clock-btn">打卡</view>

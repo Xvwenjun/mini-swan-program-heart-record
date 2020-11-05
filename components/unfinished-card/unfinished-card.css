@@ -1,0 +1,56 @@
+.unfinished-card-container{
+    position: relative;
+    width: 295.5px;
+    height: 86px;
+    background-color: #ffffff;
+    padding: 7px 0 0 9px;
+}
+.unfinished-settings{
+    color: #ffffff;
+    font-size: 12px;
+    width: 53px;
+    height: 68px;
+    background-color: #FFCC00;
+    border-radius: 8px 0 0 8px;
+}
+
+.unfinished-card-info{
+    position: absolute;
+    top:7px;
+    left:62px;
+    height: 68px;
+    width: 234px;
+    background-color:#ffffff;
+    border-radius: 0 8px 8px 0;
+
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+}
+.title {
+    font-size:16px;
+    margin:5px 0 10px 5px;
+    }
+.statement{
+    font-size:12px;
+    margin:5px 0 10px 5px;
+}
+
+.clock-In{
+    position: absolute;
+    right: 33px;
+    top:54px;
+    width: 48px;
+    height: 12px;
+    border-radius: 8px;
+    background-color: #FFCC00;
+    font-size: 8px;
+    text-align: center;
+    color: white;
+}
+.progress-bar{
+    position: absolute;
+    bottom: 5px;
+   right: 18px;
+    width: 90%;
+
+
+}

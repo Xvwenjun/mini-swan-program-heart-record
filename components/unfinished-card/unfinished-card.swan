@@ -1,0 +1,17 @@
+<view class="unfinished-card-container {{type}}"
+    hover-class="card-item-active">
+
+    <view class="unfinished-settings">
+         <viwe class="alarm-time">
+             9:00 AM</viwe>
+        <view class="progress">10/100</view>
+    </view>
+
+    <view class="unfinished-card-info">
+        <view class="title">  每天跳绳100次</view>
+        <view selectable="false" class="statement">坚持就是胜利</view>
+    </view>
+
+     <progress class="progress-bar" percent="60" border-radius="70" stroke-width="6" backgroundColor="#E6E6E6" activeColor="#00BC89" active />
+    <view class="clock-In">进入打卡</view>
+</view>

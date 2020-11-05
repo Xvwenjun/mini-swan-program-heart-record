@@ -1,0 +1,10 @@
+<view class="finished-card-container"
+    hover-class="card-item-active">
+    <img class="img">
+
+    <view class="finished-card-info">
+        <view class="title">  每天跳绳100次</view>
+        <view selectable="false" class="progress">打卡次数10/100</view>
+    </view>
+    <view class="days">已坚持21天</view>
+</view>
